@@ -30,7 +30,7 @@
     },
     {
       "name": "NatKingColeman",
-      "in_discord": false,
+      "in_discord": true,
       "role": "President",
       "weekly_cxp": 72,
       "total_cxp": 1338

@@ -1,5 +1,81 @@
 {
   "version": 1,
-  "snapshot": null,
-  "members": []
+  "snapshot": {
+    "id": 2,
+    "captured_at": "2026-11-01T03:32:40.392654+00:00",
+    "crew_level": 2,
+    "member_count": 10
+  },
+  "members": [
+    {
+      "name": "AKTHAGREAT47",
+      "in_discord": false,
+      "role": "Pledge",
+      "weekly_cxp": 0,
+      "total_cxp": 60
+    },
+    {
+      "name": "JayMalRich11",
+      "in_discord": false,
+      "role": "Pledge",
+      "weekly_cxp": 0,
+      "total_cxp": 76
+    },
+    {
+      "name": "Lax4Life559516",
+      "in_discord": false,
+      "role": "Vice President",
+      "weekly_cxp": 38,
+      "total_cxp": 1140
+    },
+    {
+      "name": "NatKingColeman",
+      "in_discord": false,
+      "role": "President",
+      "weekly_cxp": 72,
+      "total_cxp": 1338
+    },
+    {
+      "name": "Ruckle27",
+      "in_discord": false,
+      "role": "Member",
+      "weekly_cxp": 0,
+      "total_cxp": 112
+    },
+    {
+      "name": "Shabodor",
+      "in_discord": false,
+      "role": "Pledge",
+      "weekly_cxp": 0,
+      "total_cxp": 90
+    },
+    {
+      "name": "Sosa300Glo7542",
+      "in_discord": false,
+      "role": "Vice President",
+      "weekly_cxp": 6,
+      "total_cxp": 310
+    },
+    {
+      "name": "Strasta9",
+      "in_discord": false,
+      "role": "Member",
+      "weekly_cxp": 0,
+      "total_cxp": 288
+    },
+    {
+      "name": "Tripnotic_Cypher",
+      "in_discord": false,
+      "role": "Pledge",
+      "weekly_cxp": 0,
+      "total_cxp": 26
+    },
+    {
+      "name": "yosayliltrey",
+      "in_discord": false,
+      "role": null,
+      "weekly_cxp": 44,
+      "total_cxp": 330
+    }
+  ]
 }

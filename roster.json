@@ -4,7 +4,8 @@
     "id": "owner-2026-11-05",
     "captured_at": "2026-11-06T05:09:15.878641+00:00",
     "crew_level": 3,
-    "member_count": 10
+    "member_count": 10,
+    "discord_checked_at": "2026-11-06T05:19:21.643005+00:00"
   },
   "members": [
     {
@@ -23,7 +24,7 @@
       "weekly_cxp": 260,
       "total_cxp": 260,
       "prior_cxp": 0,
-      "in_discord": false
+      "in_discord": true
     },
     {
       "name": "Lax4Life559516",
@@ -32,7 +33,7 @@
       "weekly_cxp": 168,
       "total_cxp": 1270,
       "prior_cxp": 1102,
-      "in_discord": false
+      "in_discord": null
     },
     {
       "name": "BRXZY 3AM",
@@ -41,7 +42,7 @@
       "weekly_cxp": 52,
       "total_cxp": 52,
       "prior_cxp": 0,
-      "in_discord": false
+      "in_discord": true
     },
     {
       "name": "Shabodor",
@@ -50,7 +51,7 @@
       "weekly_cxp": 14,
       "total_cxp": 104,
       "prior_cxp": 90,
-      "in_discord": false
+      "in_discord": null
     },
     {
       "name": "Sosa300Glo7542",
@@ -59,7 +60,7 @@
       "weekly_cxp": 10,
       "total_cxp": 314,
       "prior_cxp": 304,
-      "in_discord": false
+      "in_discord": null
     },
     {
       "name": "Tripnotic_Cypher",
@@ -68,7 +69,7 @@
       "weekly_cxp": 0,
       "total_cxp": 26,
       "prior_cxp": 26,
-      "in_discord": false
+      "in_discord": null
     },
     {
       "name": "JayMalRich11",
@@ -77,7 +78,7 @@
       "weekly_cxp": 0,
       "total_cxp": 76,
       "prior_cxp": 76,
-      "in_discord": false
+      "in_discord": null
     },
     {
       "name": "Strasta9",
@@ -86,7 +87,7 @@
       "weekly_cxp": 0,
       "total_cxp": 288,
       "prior_cxp": 288,
-      "in_discord": false
+      "in_discord": null
     },
     {
       "name": "xvSondr",
@@ -95,7 +96,7 @@
       "weekly_cxp": 0,
       "total_cxp": 0,
       "prior_cxp": 0,
-      "in_discord": false
+      "in_discord": true
     }
   ]
 }

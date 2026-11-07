@@ -1,102 +1,125 @@
 {
   "version": 1,
   "snapshot": {
-    "id": "owner-2026-11-05",
-    "captured_at": "2026-11-06T05:09:15.878641+00:00",
+    "id": "updates-1794042235",
+    "captured_at": "2026-11-07T09:03:55.071000+00:00",
     "crew_level": 3,
-    "member_count": 10,
-    "discord_checked_at": "2026-11-06T05:19:21.643005+00:00"
+    "member_count": 14,
+    "discord_checked_at": "2026-11-06T05:19:21.643005+00:00",
+    "partial_refresh_count": null
   },
   "members": [
     {
       "name": "NatKingColeman",
+      "in_discord": true,
       "role": "President",
       "platform": "Xbox",
-      "weekly_cxp": 274,
-      "total_cxp": 1540,
-      "prior_cxp": 1266,
-      "in_discord": true
-    },
-    {
-      "name": "Sir_Buzzington",
-      "role": "Member",
-      "platform": "PlayStation",
-      "weekly_cxp": 260,
-      "total_cxp": 260,
-      "prior_cxp": 0,
-      "in_discord": true
-    },
-    {
-      "name": "Lax4Life559516",
-      "role": "Vice President",
-      "platform": "Xbox",
-      "weekly_cxp": 168,
-      "total_cxp": 1270,
-      "prior_cxp": 1102,
-      "in_discord": null
+      "weekly_cxp": 290,
+      "total_cxp": 1838
     },
     {
       "name": "BRXZY 3AM",
-      "role": "Pledge",
-      "platform": "Xbox",
-      "weekly_cxp": 52,
-      "total_cxp": 52,
-      "prior_cxp": 0,
-      "in_discord": true
-    },
-    {
-      "name": "Shabodor",
+      "in_discord": true,
       "role": "Member",
       "platform": "Xbox",
-      "weekly_cxp": 14,
-      "total_cxp": 104,
-      "prior_cxp": 90,
-      "in_discord": null
+      "weekly_cxp": 94,
+      "total_cxp": 164
     },
     {
-      "name": "Sosa300Glo7542",
+      "name": "Lax4Life559516",
+      "in_discord": null,
       "role": "Vice President",
       "platform": "Xbox",
-      "weekly_cxp": 10,
-      "total_cxp": 314,
-      "prior_cxp": 304,
-      "in_discord": null
+      "weekly_cxp": 64,
+      "total_cxp": 1334
     },
     {
-      "name": "Tripnotic_Cypher",
+      "name": "hayes11111111112",
+      "in_discord": null,
       "role": "Pledge",
+      "platform": null,
+      "weekly_cxp": 62,
+      "total_cxp": 62
+    },
+    {
+      "name": "Sir_Buzzington",
+      "in_discord": true,
+      "role": "Member",
       "platform": "PlayStation",
-      "weekly_cxp": 0,
-      "total_cxp": 26,
-      "prior_cxp": 26,
-      "in_discord": null
-    },
-    {
-      "name": "JayMalRich11",
-      "role": "Pledge",
-      "platform": "Xbox",
-      "weekly_cxp": 0,
-      "total_cxp": 76,
-      "prior_cxp": 76,
-      "in_discord": null
+      "weekly_cxp": 52,
+      "total_cxp": 360
     },
     {
       "name": "Strasta9",
+      "in_discord": null,
       "role": "Member",
       "platform": "Xbox",
-      "weekly_cxp": 0,
-      "total_cxp": 288,
-      "prior_cxp": 288,
-      "in_discord": null
+      "weekly_cxp": 12,
+      "total_cxp": 300
     },
     {
-      "name": "xvSondr",
+      "name": "Tripnotic_Cypher",
+      "in_discord": null,
       "role": "Pledge",
       "platform": "PlayStation",
       "weekly_cxp": 0,
-      "total_cxp": 0,
-      "prior_cxp": 0,
-      "in_discord": true
+      "total_cxp": 26
+    },
+    {
+      "name": "JayMalRich11",
+      "in_discord": null,
+      "role": "Pledge",
+      "platform": "Xbox",
+      "weekly_cxp": 0,
+      "total_cxp": 76
+    },
+    {
+      "name": "Sosa300Glo7542",
+      "in_discord": null,
+      "role": "Vice President",
+      "platform": "Xbox",
+      "weekly_cxp": 0,
+      "total_cxp": 326
+    },
+    {
+      "name": "Shabodor",
+      "in_discord": null,
+      "role": "Member",
+      "platform": "Xbox",
+      "weekly_cxp": 0,
+      "total_cxp": 104
+    },
+    {
+      "name": "xvSondr",
+      "in_discord": true,
+      "role": "Pledge",
+      "platform": "PlayStation",
+      "weekly_cxp": 0,
+      "total_cxp": 0
+    },
+    {
+      "name": "TkTok OhHelioss",
+      "in_discord": null,
+      "role": "Pledge",
+      "platform": null,
+      "weekly_cxp": 0,
+      "total_cxp": 0
+    },
+    {
+      "name": "BydiakarYT",
+      "in_discord": null,
+      "role": "Pledge",
+      "platform": null,
+      "weekly_cxp": 0,
+      "total_cxp": 0
+    },
+    {
+      "name": "CabecaGrande69",
+      "in_discord": null,
+      "role": "Pledge",
+      "platform": null,
+      "weekly_cxp": 0,
+      "total_cxp": 0
     }
   ]
 }

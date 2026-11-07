@@ -34,20 +34,20 @@
       "total_cxp": 26
     },
     {
-      "name": "count_to_21",
-      "in_discord": null,
-      "role": "Pledge",
-      "platform": null,
-      "weekly_cxp": 32,
-      "total_cxp": 32
-    },
-    {
       "name": "hayes11111111112",
       "in_discord": true,
       "role": "Pledge",
       "platform": null,
       "weekly_cxp": 62,
       "total_cxp": 62
+    },
+    {
+      "name": "I_count_to_21",
+      "in_discord": true,
+      "role": "Pledge",
+      "platform": null,
+      "weekly_cxp": 32,
+      "total_cxp": 32
     },
     {
       "name": "JayMalRich11",

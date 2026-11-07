@@ -1,125 +1,91 @@
 {
   "version": 1,
   "snapshot": {
-    "id": "updates-1794042235",
-    "captured_at": "2026-11-07T09:03:55.071000+00:00",
-    "crew_level": 3,
-    "member_count": 14,
-    "discord_checked_at": "2026-11-06T05:19:21.643005+00:00",
-    "partial_refresh_count": null
+    "id": 2,
+    "captured_at": "2026-11-01T03:32:40.392654+00:00",
+    "crew_level": 2,
+    "member_count": 10
   },
   "members": [
     {
-      "name": "NatKingColeman",
-      "in_discord": true,
-      "role": "President",
-      "platform": "Xbox",
-      "weekly_cxp": 290,
-      "total_cxp": 1838
-    },
-    {
-      "name": "BRXZY 3AM",
-      "in_discord": true,
-      "role": "Member",
-      "platform": "Xbox",
-      "weekly_cxp": 94,
-      "total_cxp": 164
-    },
-    {
-      "name": "Lax4Life559516",
-      "in_discord": null,
-      "role": "Vice President",
-      "platform": "Xbox",
-      "weekly_cxp": 64,
-      "total_cxp": 1334
-    },
-    {
-      "name": "hayes11111111112",
+      "name": "AKTHAGREAT47",
       "in_discord": null,
       "role": "Pledge",
       "platform": null,
-      "weekly_cxp": 62,
-      "total_cxp": 62
-    },
-    {
-      "name": "Sir_Buzzington",
-      "in_discord": true,
-      "role": "Member",
-      "platform": "PlayStation",
-      "weekly_cxp": 52,
-      "total_cxp": 360
-    },
-    {
-      "name": "Strasta9",
-      "in_discord": null,
-      "role": "Member",
-      "platform": "Xbox",
-      "weekly_cxp": 12,
-      "total_cxp": 300
-    },
-    {
-      "name": "Tripnotic_Cypher",
-      "in_discord": null,
-      "role": "Pledge",
-      "platform": "PlayStation",
       "weekly_cxp": 0,
-      "total_cxp": 26
+      "total_cxp": 60
     },
     {
       "name": "JayMalRich11",
       "in_discord": null,
       "role": "Pledge",
-      "platform": "Xbox",
+      "platform": null,
       "weekly_cxp": 0,
       "total_cxp": 76
+    },
+    {
+      "name": "Lax4Life559516",
+      "in_discord": null,
+      "role": "Vice President",
+      "platform": null,
+      "weekly_cxp": 38,
+      "total_cxp": 1140
+    },
+    {
+      "name": "NatKingColeman",
+      "in_discord": true,
+      "role": "President",
+      "platform": null,
+      "weekly_cxp": 72,
+      "total_cxp": 1338
+    },
+    {
+      "name": "Ruckle27",
+      "in_discord": null,
+      "role": "Member",
+      "platform": null,
+      "weekly_cxp": 0,
+      "total_cxp": 112
+    },
+    {
+      "name": "Shabodor",
+      "in_discord": null,
+      "role": "Pledge",
+      "platform": null,
+      "weekly_cxp": 0,
+      "total_cxp": 90
     },
     {
       "name": "Sosa300Glo7542",
       "in_discord": null,
       "role": "Vice President",
-      "platform": "Xbox",
-      "weekly_cxp": 0,
-      "total_cxp": 326
+      "platform": null,
+      "weekly_cxp": 6,
+      "total_cxp": 310
     },
     {
-      "name": "Shabodor",
+      "name": "Strasta9",
       "in_discord": null,
       "role": "Member",
-      "platform": "Xbox",
+      "platform": null,
       "weekly_cxp": 0,
-      "total_cxp": 104
+      "total_cxp": 288
     },
     {
-      "name": "xvSondr",
-      "in_discord": true,
-      "role": "Pledge",
-      "platform": "PlayStation",
-      "weekly_cxp": 0,
-      "total_cxp": 0
-    },
-    {
-      "name": "TkTok OhHelioss",
+      "name": "Tripnotic_Cypher",
       "in_discord": null,
       "role": "Pledge",
       "platform": null,
       "weekly_cxp": 0,
-      "total_cxp": 0
+      "total_cxp": 26
     },
     {
-      "name": "BydiakarYT",
+      "name": "yosayliltrey",
       "in_discord": null,
-      "role": "Pledge",
+      "role": null,
       "platform": null,
-      "weekly_cxp": 0,
-      "total_cxp": 0
-    },
-    {
-      "name": "CabecaGrande69",
-      "in_discord": null,
-      "role": "Pledge",
-      "platform": null,
-      "weekly_cxp": 0,
-      "total_cxp": 0
+      "weekly_cxp": 44,
+      "total_cxp": 330
     }
   ]
 }

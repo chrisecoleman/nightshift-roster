@@ -2,9 +2,9 @@
   "week_start": "2026-11-06",
   "next_reset_date": "2026-11-13",
   "reset_schedule": "Friday morning",
-  "screenshot_date": "2026-11-06",
-  "captured_at": "2026-11-07T03:34:22.675000+00:00",
-  "completed": 1,
+  "screenshot_date": "2026-11-07",
+  "captured_at": "2026-11-07T08:46:42.923000+00:00",
+  "completed": 2,
   "total": 4,
   "goals": [
     {
@@ -18,18 +18,18 @@
     {
       "number": 2,
       "title": "Get35Blocks",
-      "progress": 0,
+      "progress": 36,
       "target": 35,
       "cxp": 2000,
-      "status": "active"
+      "status": "complete"
     },
     {
       "number": 3,
-      "title": null,
-      "progress": null,
-      "target": null,
+      "title": "Get 700 Assists",
+      "progress": 0,
+      "target": 700,
       "cxp": 5000,
-      "status": "locked"
+      "status": "active"
     },
     {
       "number": 4,

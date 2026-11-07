@@ -1,26 +1,27 @@
 {
   "week_start": "2026-11-06",
   "next_reset_date": "2026-11-13",
-  "reset_schedule": "Friday morning; exact time not confirmed",
+  "reset_schedule": "Friday morning",
   "screenshot_date": "2026-11-06",
-  "completed": 0,
+  "captured_at": "2026-11-07T03:34:22.675000+00:00",
+  "completed": 1,
   "total": 4,
   "goals": [
     {
       "number": 1,
       "title": "Hit 65 3-pt Shots",
-      "progress": 49,
+      "progress": 65,
       "target": 65,
       "cxp": 1000,
-      "status": "active"
+      "status": "complete"
     },
     {
       "number": 2,
-      "title": null,
-      "progress": null,
-      "target": null,
+      "title": "Get35Blocks",
+      "progress": 0,
+      "target": 35,
       "cxp": 2000,
-      "status": "locked"
+      "status": "active"
     },
     {
       "number": 3,
@@ -42,6 +43,5 @@
   "completion_reward": {
     "vc": 5000,
     "eligibility": "Members who contributed weekly CXP; pledges are not eligible"
-  },
-  "captured_at": "2026-11-07T02:39:19.103428+00:00"
+  }
 }

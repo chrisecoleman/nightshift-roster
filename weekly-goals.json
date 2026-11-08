@@ -2,8 +2,8 @@
   "week_start": "2026-11-06",
   "next_reset_date": "2026-11-13",
   "reset_schedule": "Friday morning",
-  "screenshot_date": "2026-11-07",
-  "captured_at": "2026-11-08T04:30:41.246000+00:00",
+  "screenshot_date": "2026-11-08",
+  "captured_at": "2026-11-08T21:33:20.279000+00:00",
   "completed": 2,
   "total": 4,
   "goals": [
@@ -26,7 +26,7 @@
     {
       "number": 3,
       "title": "Get 700 Assists",
-      "progress": 222,
+      "progress": 360,
       "target": 700,
       "cxp": 5000,
       "status": "active"

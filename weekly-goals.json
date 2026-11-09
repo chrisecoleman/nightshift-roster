@@ -2,9 +2,9 @@
   "week_start": "2026-11-06",
   "next_reset_date": "2026-11-13",
   "reset_schedule": "Friday morning",
-  "screenshot_date": "2026-11-08",
-  "captured_at": "2026-11-08T21:33:20.279000+00:00",
-  "completed": 2,
+  "screenshot_date": "2026-11-09",
+  "captured_at": "2026-11-09T23:03:05.109000+00:00",
+  "completed": 3,
   "total": 4,
   "goals": [
     {
@@ -26,18 +26,18 @@
     {
       "number": 3,
       "title": "Get 700 Assists",
-      "progress": 360,
+      "progress": 702,
       "target": 700,
       "cxp": 5000,
-      "status": "active"
+      "status": "complete"
     },
     {
       "number": 4,
-      "title": null,
-      "progress": null,
-      "target": null,
+      "title": "Score 2500 Points",
+      "progress": 0,
+      "target": 2500,
       "cxp": 7500,
-      "status": "locked"
+      "status": "active"
     }
   ],
   "completion_reward": {

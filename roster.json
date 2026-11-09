@@ -123,7 +123,7 @@
     },
     {
       "name": "Wisely Skilled",
-      "in_discord": true,
+      "in_discord": null,
       "role": "Pledge",
       "platform": null,
       "weekly_cxp": 20,
@@ -131,7 +131,7 @@
     },
     {
       "name": "xvSondr",
-      "in_discord": true,
+      "in_discord": null,
       "role": "Pledge",
       "platform": "PlayStation",
       "weekly_cxp": 0,

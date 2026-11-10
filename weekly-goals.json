@@ -2,8 +2,8 @@
   "week_start": "2026-11-06",
   "next_reset_date": "2026-11-13",
   "reset_schedule": "Friday morning",
-  "screenshot_date": "2026-11-09",
-  "captured_at": "2026-11-09T23:03:05.109000+00:00",
+  "screenshot_date": "2026-11-10",
+  "captured_at": "2026-11-10T15:16:29.818000+00:00",
   "completed": 3,
   "total": 4,
   "goals": [
@@ -34,7 +34,7 @@
     {
       "number": 4,
       "title": "Score 2500 Points",
-      "progress": 0,
+      "progress": 1786,
       "target": 2500,
       "cxp": 7500,
       "status": "active"

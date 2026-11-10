@@ -115,7 +115,7 @@
     },
     {
       "name": "McDeezz25",
-      "in_discord": null,
+      "in_discord": true,
       "role": "Pledge",
       "platform": null,
       "weekly_cxp": 8,

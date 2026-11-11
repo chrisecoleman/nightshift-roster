@@ -1,12 +1,13 @@
 {
   "version": 1,
   "snapshot": {
-    "id": 7,
-    "captured_at": "2026-11-11T03:49:36.572000+00:00",
-    "crew_level": 3,
+    "id": 8,
+    "captured_at": "2026-11-11T04:00:22.815000+00:00",
+    "crew_level": 5,
     "member_count": 25,
     "discord_checked_at": "2026-11-06T05:19:21.643005+00:00",
-    "partial_refresh_count": 4
+    "partial_refresh_count": 4,
+    "roster_captured_at": "2026-11-11T03:49:36.572000+00:00"
   },
   "members": [
     {

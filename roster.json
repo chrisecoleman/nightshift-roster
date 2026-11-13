@@ -1,30 +1,70 @@
 {
   "version": 1,
   "snapshot": {
-    "id": 8,
-    "captured_at": "2026-11-11T04:00:22.815000+00:00",
+    "id": 9,
+    "captured_at": "2026-11-13T06:39:14.896000+00:00",
     "crew_level": 5,
-    "member_count": 25,
+    "member_count": 36,
     "discord_checked_at": "2026-11-06T05:19:21.643005+00:00",
-    "partial_refresh_count": 4,
-    "roster_captured_at": "2026-11-11T03:49:36.572000+00:00"
+    "partial_refresh_count": 33,
+    "roster_captured_at": "2026-11-13T06:39:14.896000+00:00"
   },
   "members": [
+    {
+      "name": "_count_to_21",
+      "in_discord": null,
+      "role": "Member",
+      "platform": null,
+      "weekly_cxp": 120,
+      "total_cxp": 120
+    },
+    {
+      "name": "Babydraco135100",
+      "in_discord": null,
+      "role": "Pledge",
+      "platform": null,
+      "weekly_cxp": 80,
+      "total_cxp": 80
+    },
+    {
+      "name": "BIGGUCCIKAI",
+      "in_discord": true,
+      "role": "Pledge",
+      "platform": null,
+      "weekly_cxp": 84,
+      "total_cxp": 84
+    },
+    {
+      "name": "BRRRSHIEST",
+      "in_discord": true,
+      "role": "Member",
+      "platform": null,
+      "weekly_cxp": 108,
+      "total_cxp": 108
+    },
     {
       "name": "BRXZY 3AM",
       "in_discord": true,
       "role": "Vice President",
       "platform": "Xbox",
-      "weekly_cxp": 876,
-      "total_cxp": 946
+      "weekly_cxp": 1150,
+      "total_cxp": 1220
     },
     {
       "name": "brxzygirlz",
       "in_discord": true,
       "role": "Vice President",
       "platform": null,
-      "weekly_cxp": 542,
-      "total_cxp": 542
+      "weekly_cxp": 962,
+      "total_cxp": 962
+    },
+    {
+      "name": "BurstFurball325",
+      "in_discord": null,
+      "role": "Pledge",
+      "platform": null,
+      "weekly_cxp": 34,
+      "total_cxp": 34
     },
     {
       "name": "BydiakarYT",
@@ -39,40 +79,56 @@
       "in_discord": true,
       "role": "Member",
       "platform": null,
-      "weekly_cxp": 194,
-      "total_cxp": 194
+      "weekly_cxp": 294,
+      "total_cxp": 294
     },
     {
       "name": "ChxinSnatcher-",
       "in_discord": true,
       "role": "Member",
       "platform": null,
-      "weekly_cxp": 296,
-      "total_cxp": 296
+      "weekly_cxp": 484,
+      "total_cxp": 484
+    },
+    {
+      "name": "DC2Sharp",
+      "in_discord": true,
+      "role": "Member",
+      "platform": null,
+      "weekly_cxp": 148,
+      "total_cxp": 148
     },
     {
       "name": "GiBiMane",
       "in_discord": true,
+      "role": "Member",
+      "platform": null,
+      "weekly_cxp": 172,
+      "total_cxp": 172
+    },
+    {
+      "name": "GrlnGz25",
+      "in_discord": null,
       "role": "Pledge",
       "platform": null,
-      "weekly_cxp": 52,
-      "total_cxp": 52
+      "weekly_cxp": 14,
+      "total_cxp": 14
     },
     {
       "name": "Hawkeye4899",
       "in_discord": null,
-      "role": "Pledge",
+      "role": "Member",
       "platform": null,
-      "weekly_cxp": 90,
-      "total_cxp": 90
+      "weekly_cxp": 166,
+      "total_cxp": 166
     },
     {
       "name": "hayes11111111112",
       "in_discord": true,
       "role": "Member",
       "platform": null,
-      "weekly_cxp": 248,
-      "total_cxp": 248
+      "weekly_cxp": 286,
+      "total_cxp": 286
     },
     {
       "name": "I_count_to_21",
@@ -91,20 +147,28 @@
       "total_cxp": 76
     },
     {
+      "name": "Julius_Junior01",
+      "in_discord": true,
+      "role": "Pledge",
+      "platform": null,
+      "weekly_cxp": 80,
+      "total_cxp": 80
+    },
+    {
       "name": "KingMaph",
       "in_discord": true,
       "role": "Pledge",
       "platform": null,
-      "weekly_cxp": 0,
-      "total_cxp": 0
+      "weekly_cxp": 44,
+      "total_cxp": 44
     },
     {
       "name": "KingSquirrelton",
       "in_discord": true,
       "role": "Member",
       "platform": null,
-      "weekly_cxp": 258,
-      "total_cxp": 258
+      "weekly_cxp": 584,
+      "total_cxp": 584
     },
     {
       "name": "Lax4Life559516",
@@ -119,8 +183,8 @@
       "in_discord": null,
       "role": "Member",
       "platform": null,
-      "weekly_cxp": 106,
-      "total_cxp": 106
+      "weekly_cxp": 132,
+      "total_cxp": 132
     },
     {
       "name": "Lxrdstim",
@@ -135,40 +199,64 @@
       "in_discord": true,
       "role": "Member",
       "platform": null,
-      "weekly_cxp": 108,
-      "total_cxp": 108
+      "weekly_cxp": 244,
+      "total_cxp": 244
+    },
+    {
+      "name": "N8Unleashed",
+      "in_discord": true,
+      "role": "Pledge",
+      "platform": null,
+      "weekly_cxp": 32,
+      "total_cxp": 32
     },
     {
       "name": "NatKingColeman",
       "in_discord": true,
       "role": "President",
       "platform": "Xbox",
-      "weekly_cxp": 562,
-      "total_cxp": 2110
+      "weekly_cxp": 602,
+      "total_cxp": 2150
+    },
+    {
+      "name": "Nuke_Duke86",
+      "in_discord": true,
+      "role": "Pledge",
+      "platform": null,
+      "weekly_cxp": 80,
+      "total_cxp": 80
+    },
+    {
+      "name": "Rockefella",
+      "in_discord": true,
+      "role": "Pledge",
+      "platform": null,
+      "weekly_cxp": 80,
+      "total_cxp": 80
     },
     {
       "name": "Shabodor",
       "in_discord": null,
       "role": "Member",
       "platform": "Xbox",
-      "weekly_cxp": 38,
-      "total_cxp": 142
+      "weekly_cxp": 108,
+      "total_cxp": 212
     },
     {
       "name": "Sir_Buzzington",
       "in_discord": true,
       "role": "Member",
       "platform": "PlayStation",
-      "weekly_cxp": 260,
-      "total_cxp": 568
+      "weekly_cxp": 332,
+      "total_cxp": 640
     },
     {
       "name": "Sosa300Glo7542",
       "in_discord": null,
       "role": "Vice President",
       "platform": "Xbox",
-      "weekly_cxp": 18,
-      "total_cxp": 344
+      "weekly_cxp": 50,
+      "total_cxp": 376
     },
     {
       "name": "Strasta9",
@@ -183,8 +271,8 @@
       "in_discord": true,
       "role": "Member",
       "platform": null,
-      "weekly_cxp": 294,
-      "total_cxp": 294
+      "weekly_cxp": 492,
+      "total_cxp": 492
     },
     {
       "name": "Tripnotic_Cypher",

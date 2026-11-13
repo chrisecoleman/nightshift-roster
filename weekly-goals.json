@@ -1,43 +1,42 @@
 {
-  "week_start": "2026-11-06",
-  "next_reset_date": "2026-11-13",
+  "week_start": "2026-11-13",
+  "next_reset_date": "2026-11-20",
   "reset_schedule": "Friday morning",
-  "screenshot_date": "2026-11-10",
-  "captured_at": "2026-11-11T03:12:36.313000+00:00",
-  "completed": 4,
+  "screenshot_date": "2026-11-13",
+  "completed": 0,
   "total": 4,
   "goals": [
     {
       "number": 1,
-      "title": "Hit 65 3-pt Shots",
-      "progress": 65,
-      "target": 65,
+      "title": "Play 25 3v3 Park games as a Crew",
+      "progress": 0,
+      "target": 25,
       "cxp": 1000,
-      "status": "complete"
+      "status": "active"
     },
     {
       "number": 2,
-      "title": "Get35Blocks",
-      "progress": 36,
-      "target": 35,
+      "title": null,
+      "progress": null,
+      "target": null,
       "cxp": 2000,
-      "status": "complete"
+      "status": "locked"
     },
     {
       "number": 3,
-      "title": "Get 700 Assists",
-      "progress": 702,
-      "target": 700,
+      "title": null,
+      "progress": null,
+      "target": null,
       "cxp": 5000,
-      "status": "complete"
+      "status": "locked"
     },
     {
       "number": 4,
-      "title": "Score 2500 Points",
-      "progress": 2507,
-      "target": 2500,
+      "title": null,
+      "progress": null,
+      "target": null,
       "cxp": 7500,
-      "status": "complete"
+      "status": "locked"
     }
   ],
   "completion_reward": {

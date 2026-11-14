@@ -100,7 +100,7 @@
     },
     {
       "name": "GiBiMane",
-      "in_discord": true,
+      "in_discord": null,
       "role": "Member",
       "platform": null,
       "weekly_cxp": 172,

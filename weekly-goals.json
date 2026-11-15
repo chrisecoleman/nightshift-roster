@@ -2,9 +2,9 @@
   "week_start": "2026-11-13",
   "next_reset_date": "2026-11-20",
   "reset_schedule": "Friday morning",
-  "screenshot_date": "2026-11-14",
-  "captured_at": "2026-11-15T05:22:33.664000+00:00",
-  "completed": 1,
+  "screenshot_date": "2026-11-15",
+  "captured_at": "2026-11-15T07:20:53.776000+00:00",
+  "completed": 2,
   "total": 4,
   "goals": [
     {
@@ -18,18 +18,18 @@
     {
       "number": 2,
       "title": "Score 800 Points",
-      "progress": 513,
+      "progress": 839,
       "target": 800,
       "cxp": 2000,
-      "status": "active"
+      "status": "complete"
     },
     {
       "number": 3,
-      "title": null,
-      "progress": null,
-      "target": null,
+      "title": "Win 752 v 2 gamesasaCrew",
+      "progress": 0,
+      "target": 75,
       "cxp": 5000,
-      "status": "locked"
+      "status": "active"
     },
     {
       "number": 4,

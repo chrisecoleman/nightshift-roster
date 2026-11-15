@@ -3,7 +3,7 @@
   "next_reset_date": "2026-11-20",
   "reset_schedule": "Friday morning",
   "screenshot_date": "2026-11-14",
-  "captured_at": "2026-11-15T03:08:33.717000+00:00",
+  "captured_at": "2026-11-15T05:22:33.664000+00:00",
   "completed": 1,
   "total": 4,
   "goals": [
@@ -18,7 +18,7 @@
     {
       "number": 2,
       "title": "Score 800 Points",
-      "progress": 0,
+      "progress": 513,
       "target": 800,
       "cxp": 2000,
       "status": "active"

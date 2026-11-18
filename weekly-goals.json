@@ -2,8 +2,8 @@
   "week_start": "2026-11-13",
   "next_reset_date": "2026-11-20",
   "reset_schedule": "Friday morning",
-  "screenshot_date": "2026-11-15",
-  "captured_at": "2026-11-15T07:20:53.776000+00:00",
+  "screenshot_date": "2026-11-17",
+  "captured_at": "2026-11-18T03:53:10.446000+00:00",
   "completed": 2,
   "total": 4,
   "goals": [
@@ -26,7 +26,7 @@
     {
       "number": 3,
       "title": "Win 752 v 2 gamesasaCrew",
-      "progress": 0,
+      "progress": 40,
       "target": 75,
       "cxp": 5000,
       "status": "active"

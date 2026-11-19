@@ -156,7 +156,7 @@
     },
     {
       "name": "KingMaph",
-      "in_discord": true,
+      "in_discord": null,
       "role": "Pledge",
       "platform": null,
       "weekly_cxp": 44,

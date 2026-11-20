@@ -1,35 +1,35 @@
 {
-  "week_start": "2026-11-13",
-  "next_reset_date": "2026-11-20",
+  "week_start": "2026-11-20",
+  "next_reset_date": "2026-11-27",
   "reset_schedule": "Friday morning",
-  "screenshot_date": "2026-11-17",
-  "captured_at": "2026-11-18T03:53:10.446000+00:00",
-  "completed": 2,
+  "screenshot_date": "2026-11-20",
+  "captured_at": "2026-11-20T19:18:04.678000+00:00",
+  "completed": 0,
   "total": 4,
   "goals": [
     {
       "number": 1,
-      "title": null,
-      "progress": null,
-      "target": null,
+      "title": "Crew",
+      "progress": 0,
+      "target": 5,
       "cxp": 1000,
-      "status": "complete"
+      "status": "active"
     },
     {
       "number": 2,
-      "title": "Score 800 Points",
-      "progress": 839,
-      "target": 800,
+      "title": null,
+      "progress": null,
+      "target": null,
       "cxp": 2000,
-      "status": "complete"
+      "status": "locked"
     },
     {
       "number": 3,
-      "title": "Win 752 v 2 gamesasaCrew",
-      "progress": 40,
-      "target": 75,
+      "title": null,
+      "progress": null,
+      "target": null,
       "cxp": 5000,
-      "status": "active"
+      "status": "locked"
     },
     {
       "number": 4,

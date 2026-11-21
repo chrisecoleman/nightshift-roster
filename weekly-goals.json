@@ -2,26 +2,26 @@
   "week_start": "2026-11-20",
   "next_reset_date": "2026-11-27",
   "reset_schedule": "Friday morning",
-  "screenshot_date": "2026-11-20",
-  "captured_at": "2026-11-20T19:18:04.678000+00:00",
-  "completed": 0,
+  "screenshot_date": "2026-11-21",
+  "captured_at": "2026-11-21T19:57:10.931000+00:00",
+  "completed": 1,
   "total": 4,
   "goals": [
     {
       "number": 1,
       "title": "Crew",
-      "progress": 0,
+      "progress": 6,
       "target": 5,
       "cxp": 1000,
-      "status": "active"
+      "status": "complete"
     },
     {
       "number": 2,
-      "title": null,
-      "progress": null,
-      "target": null,
+      "title": "Crew",
+      "progress": 0,
+      "target": 25,
       "cxp": 2000,
-      "status": "locked"
+      "status": "active"
     },
     {
       "number": 3,

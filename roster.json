@@ -244,7 +244,7 @@
     },
     {
       "name": "Sir_Buzzington",
-      "in_discord": null,
+      "in_discord": true,
       "role": "Member",
       "platform": "PlayStation",
       "weekly_cxp": 332,

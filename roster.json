@@ -44,7 +44,7 @@
     },
     {
       "name": "BRXZY 3AM",
-      "in_discord": true,
+      "in_discord": null,
       "role": "Vice President",
       "platform": "Xbox",
       "weekly_cxp": 1150,
@@ -52,7 +52,7 @@
     },
     {
       "name": "brxzygirlz",
-      "in_discord": true,
+      "in_discord": null,
       "role": "Vice President",
       "platform": null,
       "weekly_cxp": 962,

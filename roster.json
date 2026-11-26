@@ -268,7 +268,7 @@
     },
     {
       "name": "TkTok OhHelioss",
-      "in_discord": null,
+      "in_discord": true,
       "role": "Member",
       "platform": null,
       "weekly_cxp": 492,

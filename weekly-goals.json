@@ -1,27 +1,27 @@
 {
-  "week_start": "2026-11-20",
-  "next_reset_date": "2026-11-27",
+  "week_start": "2026-11-27",
+  "next_reset_date": "2026-12-04",
   "reset_schedule": "Friday morning",
-  "screenshot_date": "2026-11-21",
-  "captured_at": "2026-11-21T19:57:10.931000+00:00",
-  "completed": 1,
+  "screenshot_date": "2026-11-27",
+  "captured_at": "2026-11-27T17:11:10.508000+00:00",
+  "completed": 0,
   "total": 4,
   "goals": [
     {
       "number": 1,
-      "title": "Crew",
-      "progress": 6,
-      "target": 5,
+      "title": "Win 10 ParkgamesasaCrew",
+      "progress": 0,
+      "target": 10,
       "cxp": 1000,
-      "status": "complete"
+      "status": "active"
     },
     {
       "number": 2,
-      "title": "Crew",
-      "progress": 0,
-      "target": 25,
+      "title": null,
+      "progress": null,
+      "target": null,
       "cxp": 2000,
-      "status": "active"
+      "status": "locked"
     },
     {
       "number": 3,

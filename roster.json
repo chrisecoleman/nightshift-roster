@@ -76,7 +76,7 @@
     },
     {
       "name": "CabecaGrande69",
-      "in_discord": null,
+      "in_discord": true,
       "role": "Member",
       "platform": null,
       "weekly_cxp": 294,
